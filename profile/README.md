@@ -6,7 +6,7 @@ All the repositories of intrest related with the group project
 🌈 If you like what we do you can collaborate by ⭐ **giving us stars** ⭐ in the repositories you find usefull, **following** us or by donating to our projects 💰🙏 
 
 
-* [Donate to CaviDB Poject](https://opencollective.com/cavidb/donate)
+* Donate to [CaviDB](https://www.cavidb.org) project [here](https://opencollective.com/cavidb/donate)
 
 👩‍ All the content here was created by [SBG - UNQ](http://ufq.unq.edu.ar/sbg/) & collaborators. And all the matterials and repos are under [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]**. 
 
